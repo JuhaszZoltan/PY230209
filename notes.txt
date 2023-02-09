@@ -1,0 +1,12 @@
+# sorozat [összegzés] -> átlag
+# szélsőérték
+# megszámlálás
+# eldöntés -> bool
+# (kiválasztás)
+# linker -> index or object
+
+# kiválogatás
+
+# ---
+
+# egyszerű cserés rendezés [x]
